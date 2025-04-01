@@ -21,8 +21,8 @@
             <ul class="links">
                 <span class="close-btn material-symbols-rounded">close</span>
                 <li><a href="#">Home</a></li>
-                <li><a href="#">Portfolio</a></li>
-                <li><a href="#">Courses</a></li>
+                <li><a href="#">Portafolio</a></li>
+                <li><a href="#">Cursos</a></li>
                 <li><a href="#">About us</a></li>
                 <li><a href="#">Contact us</a></li>
             </ul>
