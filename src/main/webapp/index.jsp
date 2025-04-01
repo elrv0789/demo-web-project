@@ -23,8 +23,8 @@
                 <li><a href="#">Home</a></li>
                 <li><a href="#">Portafolio</a></li>
                 <li><a href="#">Cursos</a></li>
-                <li><a href="#">About us</a></li>
-                <li><a href="#">Contact us</a></li>
+                <li><a href="#">Acerca de nosotros</a></li>
+                <li><a href="#">Contactanos</a></li>
             </ul>
             <button class="login-btn">LOG IN</button>
         </nav>
