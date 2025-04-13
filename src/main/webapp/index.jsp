@@ -24,7 +24,7 @@
                 <li><a href="#">PORTAFOLIO</a></li>
                 <li><a href="#">CURSOS</a></li>
                 <li><a href="#">ACERCA de nosotros</a></li>
-                <li><a href="#">Contactanos</a></li>
+                <li><a href="#">CONTACTANOS</a></li>
             </ul>
             <button class="login-btn">LOG IN</button>
         </nav>
