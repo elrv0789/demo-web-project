@@ -20,10 +20,10 @@
             </a>
             <ul class="links">
                 <span class="close-btn material-symbols-rounded">close</span>
-                <li><a href="#">Home</a></li>
-                <li><a href="#">Portafolio</a></li>
-                <li><a href="#">Cursos</a></li>
-                <li><a href="#">Acerca de nosotros</a></li>
+                <li><a href="#">HOME</a></li>
+                <li><a href="#">PORTAFOLIO</a></li>
+                <li><a href="#">CURSOS</a></li>
+                <li><a href="#">ACERCA de nosotros</a></li>
                 <li><a href="#">Contactanos</a></li>
             </ul>
             <button class="login-btn">LOG IN</button>
