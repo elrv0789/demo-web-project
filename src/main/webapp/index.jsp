@@ -13,7 +13,7 @@
 <body>
     <header>
         <nav class="navbar">
-            <span class="hamburger-btn material-symbols-rounded">menu</span>
+            <span class="hamburger-btn material-symbols-rounded">MENU</span>
             <a href="#" class="logo">
                 <img src="images/logo.jpg" alt="logo">
                 <h2>CodingNepal</h2>
