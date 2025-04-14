@@ -20,7 +20,7 @@
             </a>
             <ul class="links">
                 <span class="close-btn material-symbols-rounded">close</span>
-                <li><a href="#">HOME</a></li>
+                <li><a href="#">Home</a></li>
                 <li><a href="#">PORTAFOLIO</a></li>
                 <li><a href="#">CURSOS</a></li>
                 <li><a href="#">ACERCA de nosotros</a></li>
